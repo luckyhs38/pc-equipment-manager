@@ -1,4 +1,3 @@
-# pc-equipment-manager
 # PC 자산관리 시스템
 
 Python Tkinter와 SQLite를 사용한 로컬 기반 PC 자산관리 프로그램입니다.  
