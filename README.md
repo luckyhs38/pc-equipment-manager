@@ -3,6 +3,8 @@
 Python Tkinter와 SQLite를 사용한 로컬 기반 PC 자산관리 프로그램입니다.  
 별도 서버 없이 실행한 PC에 DB 파일을 생성하여 PC, 모니터, 노트북 자산 정보를 관리할 수 있습니다.
 
+<img width="3832" height="2066" alt="image" src="https://github.com/user-attachments/assets/28aaa50a-ed3b-472f-be94-934710474610" />
+
 ## 주요 기능
 
 - 사용자별 장비 정보 등록, 수정, 삭제
